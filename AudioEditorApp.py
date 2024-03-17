@@ -65,6 +65,7 @@ class AudioEditorApp:
             tk.messagebox.showinfo("Info", "No audio loaded to save")
 
 
-root = tk.Tk()
-app = AudioEditorApp(root)
-root.mainloop()
+if __name__ == "__main__":
+    root = tk.Tk()
+    app = AudioEditorApp(root)
+    root.mainloop()
