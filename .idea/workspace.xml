@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80521f7a-6a76-4141-b8ad-90c61277d36f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AudioEditorTest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AudioEditor.py" beforeDir="false" afterPath="$PROJECT_DIR$/AudioEditor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AudioEditorApp.py" beforeDir="false" afterPath="$PROJECT_DIR$/AudioEditorApp.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.AudioEditor.executor": "Run",
     "Python.AudioEditorApp.executor": "Run",
+    "Python.AudioEditorTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -76,7 +77,7 @@
       <workItem from="1710454681012" duration="2272000" />
       <workItem from="1710601866251" duration="4126000" />
       <workItem from="1710681642219" duration="257000" />
-      <workItem from="1710703703032" duration="136000" />
+      <workItem from="1710703703032" duration="9753000" />
     </task>
     <servers />
   </component>
@@ -87,7 +88,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/MDD$AudioEditor.coverage" NAME="AudioEditor Coverage Results" MODIFIED="1710603186413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MDD$AudioEditorApp.coverage" NAME="AudioEditorApp Coverage Results" MODIFIED="1710604133648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MDD$AudioEditor.coverage" NAME="AudioEditor Coverage Results" MODIFIED="1710703870173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MDD$AudioEditorTest.coverage" NAME="AudioEditorTest Coverage Results" MODIFIED="1710707342228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MDD$AudioEditorApp.coverage" NAME="AudioEditorApp Coverage Results" MODIFIED="1710703873898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

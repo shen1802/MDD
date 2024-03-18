@@ -25,7 +25,7 @@ class AudioEditorApp:
         self.scrollbar = tk.Scrollbar(root, orient='vertical', command=self.file_listbox.yview)
         self.scrollbar.grid(row=0, column=1, sticky='ns', padx=10, pady=10)
 
-        # Configure the listbox's scrollbar
+        # Configure the list box's scrollbar
         self.file_listbox.config(yscrollcommand=self.scrollbar.set)
 
         # Button to load audio
@@ -63,9 +63,3 @@ class AudioEditorApp:
                     tk.messagebox.showerror("Error", str(e))
         else:
             tk.messagebox.showinfo("Info", "No audio loaded to save")
-
-
-if __name__ == "__main__":
-    root = tk.Tk()
-    app = AudioEditorApp(root)
-    root.mainloop()
